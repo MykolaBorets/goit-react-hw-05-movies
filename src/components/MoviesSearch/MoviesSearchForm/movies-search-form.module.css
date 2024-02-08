@@ -1,0 +1,5 @@
+.form {
+  display: flex;
+  margin-left: 10px;
+  gap: 20px;
+}
